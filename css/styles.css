@@ -1,0 +1,142 @@
+body{
+    font-family: 'Montserrat, sans-serif';
+}
+h1 {  
+    font-family: 'Montserrat';
+    font-size: 3rem;  
+    line-height: 1.5;  
+    font-weight: 900;
+    
+}
+/* font-family: 'Montserrat', sans-serif;
+ */
+
+#title{
+    background-color:#b2d275;
+    color:rgb(0, 0, 0);
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+/* navication bar */
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-size: xx-large;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0% 15px;
+}
+.nav-link{
+    font-size: large;
+    font-family: 'Montserrat-light';
+}
+.download-btn{
+    margin: 20px 10px 0 0px; 
+}
+
+.title-image{
+    width: 90%; 
+    /* transform: rotate(20deg);   */
+    margin: 10% 0 0 20%;
+    
+}
+
+/* 2nd page */
+
+.khubi{
+    text-align: center;
+    padding: 0 5%;
+}
+#features{
+    color: #000000;
+    padding: 6% 12%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+h3{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: black;
+    font-size: 1.5rem;
+}
+.feature-logo{
+    color: #12ab57;
+    size: 100px;
+    margin-bottom: 1rem;
+}
+.feature-logo:hover{
+    color:#b2d275;
+}
+
+/*contents */
+
+#contentss{
+    background-color: #b2d275;
+    padding:5% 0 2% ;
+}
+.con{
+    margin: 0 5%;
+    text-align: center;
+    color: #fff;
+    font-family: 'Montserrat';
+}
+h2{
+        font-family: 'Montserrat';
+        font-weight: bold;
+        color: rgb(250, 249, 249);
+        font-size: 1.6rem;
+    
+}
+
+/* lists */
+
+#lists{
+    padding: 3% 10%;
+    text-align: center;
+}
+.un-list{
+    margin: 3% 5% 0;
+    text-align: center;
+    color: black;
+    font-family: 'Montserrat'
+}
+
+/* call to action  */
+
+h5{
+    font-size:60px;
+    padding: 0 20%;
+    font-weight: bold;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#git{
+    background-color:#b2d275;
+    padding: 5% 5% 3%;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+.login-btns{
+    padding-bottom: 3%;
+}
+
+/*footer  */
+
+#footer{
+    text-align: center;
+    padding: 3% 0 1%;
+}
+
+.footer-icon{
+    color: black;
+    padding: 0 5px 5px 5px;
+}
